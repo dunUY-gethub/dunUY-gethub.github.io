@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+	<meta charset="UTF-8">
+	<title>dunUYの主页</title>
+	<style>
+		/* css reset */
+		* {
+			margin: 0;
+			padding: 0;
+		}
+
+		.box1 {
+			/*设置了第一个div的宽度高度和背景色*/
+			align-content: center;
+			width: 100%;
+			height: 50px;
+			background-color: rgb(165, 255, 200);
+		}
+
+
+		.box2 {
+			/*设置定位为相对定位宽度可以根据内容进行调整，注意在这不要使用百分比，
+			最后水平居中*/
+			position: relative;
+			width: 1200px;
+			margin: auto;
+		}
+
+		.menu ul {
+			/*nav的属性，在这取消无序列表的标*/
+			list-style-type: none;
+		}
+
+		.menu ul>li {
+			/*设置li为左浮动，使列表项在一行*/
+			float: left;
+		}
+
+		.menu a {
+			/*对a标签进行主要的效果设置 display: inline-block取消下划线*/
+			text-decoration: none;
+			color: #fff;
+			background-color: rgb(165, 255, 200);
+			width: 160px;
+			height: 50px;
+			display: inline-block;
+			text-align: center;
+			line-height: 50px;
+		}
+
+		.menu a:hover {
+			/*鼠标移入事件,0.8s改变背景色*/
+			background-color: rgb(26, 102, 196);
+			transition: background-color 0.8s;
+		}
+
+		.submenu {
+			/*设置二级菜单隐藏效果*/
+			width: 160px;
+			display: none;
+		}
+
+		.menu>ul>li:hover .submenu {
+			/*二级菜单在鼠标移入时打开,设置绝对定位*/
+			display: block;
+			position: absolute;
+		}
+
+		nav>ul>li.line {
+			/*设置中间的效果线的*/
+			width: 1px;
+			height: 50px;
+			opacity: .5
+		}
+
+		nav>ul>li.one {
+			/*设置渐变效果*/
+			background-image: linear-gradient(rgba(0, 0, 0, 0),
+					rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+		}
+
+		nav>ul>li.two {
+			background-image: linear-gradient(rgba(255, 255, 255,
+						0), rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+		}
+
+
+		.box3 {
+			clear: none;
+		}
+	</style>
+</head>
+
+<body>
+	<div class="box1"><!--这里是顶端标签栏-->
+		<div class="box2">
+			<nav class="menu">
+				<ul>
+					<li><a href="index.html">首页</a></li>
+					<li class="line one"></li>
+					<li class="line two"></li>
+					<li><a href="">数学专栏</a>
+						<!--
+						<ul class="submenu">
+							<li><a href="">1</a></li>
+							<li><a href="">2</a></li>
+							<li><a href="">3</a></li>
+							<li><a href="">4</a></li>
+							<li><a href="">5</a></li>
+						</ul>
+						-->
+					</li>
+					<li class="line one"></li>
+					<li class="line two"></li>
+					<li><a href=".html/三国杀武将.html" target="_blank">自制三国杀</a>
+						<ul class="submenu">
+							<li><a href="卫温_三国杀.html">卫温</a></li>
+							<li><a href="">2</a></li>
+							<li><a href="">3</a></li>
+						</ul>
+					</li>
+					<li class="line one"></li>
+					<li class="line two"></li>
+					<li><a href="">-3</a>
+						<ul class="submenu">
+							<li><a href="">1</a></li>
+							<li><a href="">2</a></li>
+							<li><a href="">3</a></li>
+						</ul>
+					</li>
+					<li class="line one"></li>
+					<li class="line two"></li>
+					<li><a href="">-4</a>
+						<ul class="submenu">
+							<li><a href="">1</a></li>
+							<li><a href="">2</a></li>
+							<li><a href="">3</a></li>
+						</ul>
+					</li>
+					<!--上方标签栏可以复制-->
+				</ul>
+			</nav>
+		</div>
+	</div>
+</body>
+
+</html>
+<!--from https://blog.csdn.net/xxxmou/article/details/128882658-->
