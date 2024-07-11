@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3375561d-1d10-4fa3-9674-bcadfd3c747e" name="更改" comment="Update index.html">
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/111" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_AMS-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_AMS-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_AMS-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Caligraphic-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Caligraphic-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Caligraphic-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Caligraphic-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Caligraphic-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Caligraphic-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Fraktur-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Fraktur-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Fraktur-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Fraktur-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Fraktur-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Fraktur-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Main-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Main-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Main-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Main-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Main-BoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Main-BoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Main-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Main-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Main-Italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Main-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Main-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Main-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Math-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Math-BoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Math-BoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Math-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Math-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Math-Italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_SansSerif-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_SansSerif-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_SansSerif-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_SansSerif-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_SansSerif-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_SansSerif-Italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_SansSerif-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_SansSerif-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_SansSerif-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Script-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Script-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Script-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Size1-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Size1-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Size1-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Size2-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Size2-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Size2-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Size3-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Size3-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Size3-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Size4-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Size4-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Size4-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Typewriter-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Typewriter-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/KaTeX_Typewriter-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/katex.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/writer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/writer.style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/一元二次方程.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/三国杀武将.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/卫温_三国杀.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多项式展开.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/多项式展开.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数学.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/源码.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dunUY-gethub/dunUY-gethub.github.io.git",
+    "accountId": "8a15a621-6afe-40c1-aeaa-b68160e5fcd9"
+  }
+}]]></component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="j4cl136d" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2j5nLvnJkvoIewWF0JJf3g4lMZw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.first.attach.projects": "true"
+  }
+}]]></component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="3375561d-1d10-4fa3-9674-bcadfd3c747e" name="更改" comment="" />
+      <created>1720685752570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720685752570</updated>
+      <workItem from="1720685753730" duration="154000" />
+      <workItem from="1720685927477" duration="968000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update index.html">
+      <option name="closed" value="true" />
+      <created>1720687950780</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720687950781</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update index.html" />
+  </component>
+</project>
